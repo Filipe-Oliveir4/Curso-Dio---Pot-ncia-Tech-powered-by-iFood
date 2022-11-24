@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Filipe Miranda\Desktop\Projeto Boot Camp DIO\.metadata\.plugins\org.eclipse.jdt.core
+2072337337.index
+1865797976.index
+1272347700.index
